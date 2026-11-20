@@ -7,8 +7,9 @@ Run:
     cat /etc/passwd
 
 ### Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/780548e2-d8f6-4988-a8a2-1e544d4e365b" />
 
-(Add screenshot here)
+
 
 ### Questions
 
@@ -30,7 +31,10 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6af2c2f2-a950-40b5-b48d-811b82e20e3b" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8ff3fa4c-89e2-4b16-820c-8c51dd201799" />
+
+
 
 ### Questions
 
@@ -48,7 +52,8 @@ What did you learn about system processes and security?
 
 Run:
 
-    ss -tuln
+    ss -tulnbash: !nBicyclePlanet: event not found
+
 
 ### Screenshot
 
